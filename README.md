@@ -6,7 +6,7 @@
 <div align="center" dir="auto">
   <a href="https://github.com/analicer">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analicer&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicee&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicer&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 </a></div>
 
 <div style="display: iniline_block" align="center"><br>
