@@ -1,7 +1,7 @@
-### Hi there, I am Analice!
+### Hi there, I am Analice! 🖐
 
-- I’m currently looking for a job as front-end developer jr.
-- I’m currently learning javascript.
+-  👩🏽‍💻 I’m currently looking for a job as front-end developer jr.
+-  🌱 I’m currently learning javascript.
 
 <div align="center" dir="auto">
   <a href="https://github.com/analicer">
